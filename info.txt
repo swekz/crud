@@ -1,0 +1,12 @@
+step 1: install packages using pip install -r requirements.txt
+
+step 2: run the application using command python user.py
+
+step 3: import api endpoints from file demo.postman_collections.json 
+
+#-----------------
+copy and paste access token to authorization in authorization select bearer token
+
+access token is valid for 3minutes after the token expire new access token will be generated generating 
+new token is mentioned in the api end points code itself like modify user, delete user, get all users 
+
